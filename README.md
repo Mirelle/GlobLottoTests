@@ -1,0 +1,4 @@
+GlobLottoTests
+==============
+
+test task
